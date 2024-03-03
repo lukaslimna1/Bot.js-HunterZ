@@ -1,0 +1,449 @@
+{"level":30,"time":1709359729058,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Validating config file and environment variables"}
+{"level":40,"time":1709359729059,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1709359729060,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1709359729060,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1709359729124,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Loading commands..."}
+{"level":50,"time":1709359729161,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\anti.js Reason: Command name must be a lowercase string."}
+{"level":50,"time":1709359729162,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\autodelete.js Reason: Command name must be a lowercase string."}
+{"level":20,"time":1709359729856,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1709359729858,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1709359729859,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1709359729866,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1709359729868,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1709359729870,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1709359729873,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1709359729874,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1709359729885,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1709359729886,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1709359729888,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1709359729891,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1709359729892,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1709359729907,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1709359729909,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1709359729911,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1709359729912,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1709359729913,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1709359729914,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1709359729915,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1709359729915,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1709359729916,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1709359729918,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1709359729919,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1709359729921,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1709359729924,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1709359729926,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1709359729932,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1709359729935,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1709359729936,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1709359729939,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1709359729940,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1709359729941,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1709359729942,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1709359729942,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1709359729943,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1709359729944,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1709359729945,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1709359729946,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1709359729947,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1709359729947,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1709359729949,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1709359729950,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1709359729951,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1709359729986,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 86 commands"}
+{"level":30,"time":1709359729986,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 67 slash commands"}
+{"level":30,"time":1709359729987,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Loading contexts..."}
+{"level":30,"time":1709359729989,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1709359729989,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1709359729989,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Loading events..."}
+{"level":30,"time":1709359730048,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1709359730360,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1709359730360,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1709359730399,"pid":18280,"hostname":"DESKTOP-PR8QFB7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1709359799517,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Validating config file and environment variables"}
+{"level":40,"time":1709359799519,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1709359799519,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1709359799519,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1709359799598,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Loading commands..."}
+{"level":50,"time":1709359799630,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\anti.js Reason: Command name must be a lowercase string."}
+{"level":50,"time":1709359799631,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\autodelete.js Reason: Command name must be a lowercase string."}
+{"level":20,"time":1709359800458,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1709359800460,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1709359800463,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1709359800466,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1709359800468,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1709359800480,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1709359800481,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1709359800483,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1709359800486,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1709359800488,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1709359800505,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1709359800507,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1709359800510,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1709359800510,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1709359800511,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1709359800512,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1709359800513,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1709359800514,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1709359800516,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1709359800518,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1709359800520,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1709359800523,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1709359800528,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1709359800531,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1709359800559,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1709359800560,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1709359800561,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1709359800597,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 103 commands"}
+{"level":30,"time":1709359800597,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1709359800597,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Loading contexts..."}
+{"level":30,"time":1709359800600,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1709359800600,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1709359800600,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Loading events..."}
+{"level":30,"time":1709359800661,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1709359800948,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1709359800948,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Launching dashboard"}
+{"level":30,"time":1709359801224,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1709359801260,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1709359801282,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1709359807765,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Logged in as TESTE#8973! (1212965582161449053)"}
+{"level":20,"time":1709359807766,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1709359807768,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Music Manager initialized"}
+{"level":30,"time":1709359807768,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1709359807786,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1709359807788,"pid":18336,"hostname":"DESKTOP-PR8QFB7","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:518:28)\n    at emitErrorAndClose (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:518:28)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1709359807790,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1709359807790,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":20,"time":1709359812741,"pid":18336,"hostname":"DESKTOP-PR8QFB7","query":{},"body":{}}
+{"level":50,"time":1709359812741,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Falha ao fazer login no painel! Verifique a pasta /logs para mais detalhes"}
+{"level":20,"time":1709359812931,"pid":18336,"hostname":"DESKTOP-PR8QFB7","query":{},"body":{}}
+{"level":50,"time":1709359812931,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Falha ao fazer login no painel! Verifique a pasta /logs para mais detalhes"}
+{"level":20,"time":1709359822523,"pid":18336,"hostname":"DESKTOP-PR8QFB7","query":{},"body":{}}
+{"level":50,"time":1709359822523,"pid":18336,"hostname":"DESKTOP-PR8QFB7","msg":"Falha ao fazer login no painel! Verifique a pasta /logs para mais detalhes"}
+{"level":30,"time":1709368234904,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Validating config file and environment variables"}
+{"level":40,"time":1709368234906,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1709368234906,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1709368234906,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1709368234992,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Loading commands..."}
+{"level":50,"time":1709368235020,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\anti.js Reason: Command name must be a lowercase string."}
+{"level":50,"time":1709368235021,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\autodelete.js Reason: Command name must be a lowercase string."}
+{"level":20,"time":1709368235957,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1709368235959,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1709368235961,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1709368235964,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1709368235965,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1709368235977,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1709368235978,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1709368235979,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1709368235982,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1709368235984,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1709368235999,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1709368236001,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1709368236003,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1709368236004,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1709368236004,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1709368236005,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1709368236006,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1709368236007,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1709368236008,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1709368236009,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1709368236011,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1709368236012,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1709368236015,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1709368236017,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1709368236040,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1709368236041,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1709368236042,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1709368236086,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 103 commands"}
+{"level":30,"time":1709368236086,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1709368236086,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Loading contexts..."}
+{"level":30,"time":1709368236088,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1709368236089,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1709368236089,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Loading events..."}
+{"level":30,"time":1709368236141,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1709368236463,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1709368236463,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Launching dashboard"}
+{"level":30,"time":1709368236793,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1709368236831,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1709368236873,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1709368237640,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Logged in as TESTE#8973! (1212965582161449053)"}
+{"level":20,"time":1709368237641,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1709368237643,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Music Manager initialized"}
+{"level":30,"time":1709368237643,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1709368237663,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1709368237665,"pid":9904,"hostname":"DESKTOP-PR8QFB7","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:518:28)\n    at emitErrorAndClose (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:518:28)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1709368237666,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1709368237666,"pid":9904,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1709370108559,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Validating config file and environment variables"}
+{"level":40,"time":1709370108561,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1709370108561,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1709370108561,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1709370108640,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Loading commands..."}
+{"level":50,"time":1709370108673,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\anti.js Reason: Command name must be a lowercase string."}
+{"level":50,"time":1709370108674,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\autodelete.js Reason: Command name must be a lowercase string."}
+{"level":20,"time":1709370109469,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1709370109470,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1709370109473,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1709370109476,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1709370109477,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1709370109488,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1709370109489,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1709370109491,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1709370109494,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1709370109495,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1709370109511,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1709370109512,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1709370109515,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1709370109515,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1709370109516,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1709370109517,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1709370109518,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1709370109519,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1709370109520,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1709370109521,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1709370109523,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1709370109524,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1709370109527,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1709370109529,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1709370109552,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1709370109553,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1709370109554,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1709370109589,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 103 commands"}
+{"level":30,"time":1709370109589,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1709370109589,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Loading contexts..."}
+{"level":30,"time":1709370109591,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1709370109591,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1709370109591,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Loading events..."}
+{"level":30,"time":1709370109645,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1709370109941,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1709370109942,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Launching dashboard"}
+{"level":30,"time":1709370110210,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1709370110248,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1709370110272,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1709370110976,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Logged in as TESTE#8973! (1212965582161449053)"}
+{"level":20,"time":1709370110977,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1709370110979,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Music Manager initialized"}
+{"level":30,"time":1709370110979,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1709370110998,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1709370111001,"pid":17184,"hostname":"DESKTOP-PR8QFB7","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:518:28)\n    at emitErrorAndClose (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:518:28)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1709370111003,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1709370111003,"pid":17184,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1709370902137,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Validating config file and environment variables"}
+{"level":40,"time":1709370902139,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1709370902139,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1709370902139,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1709370902207,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Loading commands..."}
+{"level":50,"time":1709370902235,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\anti.js Reason: Command name must be a lowercase string."}
+{"level":50,"time":1709370902236,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\autodelete.js Reason: Command name must be a lowercase string."}
+{"level":20,"time":1709370903028,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1709370903029,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1709370903032,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1709370903035,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1709370903037,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1709370903049,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1709370903050,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1709370903052,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1709370903054,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1709370903056,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1709370903073,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1709370903074,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1709370903077,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1709370903078,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1709370903079,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1709370903080,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1709370903081,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1709370903081,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1709370903082,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1709370903084,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1709370903086,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1709370903087,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1709370903090,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1709370903092,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1709370903117,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1709370903118,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1709370903119,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1709370903155,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 103 commands"}
+{"level":30,"time":1709370903155,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1709370903155,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Loading contexts..."}
+{"level":30,"time":1709370903158,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1709370903158,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1709370903158,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Loading events..."}
+{"level":30,"time":1709370903216,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1709370903513,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1709370903513,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Launching dashboard"}
+{"level":30,"time":1709370903808,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1709370903850,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1709370903873,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1709370904557,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Logged in as TESTE#8973! (1212965582161449053)"}
+{"level":20,"time":1709370904557,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1709370904559,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Music Manager initialized"}
+{"level":30,"time":1709370904559,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1709370904577,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1709370904578,"pid":3664,"hostname":"DESKTOP-PR8QFB7","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:518:28)\n    at emitErrorAndClose (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:518:28)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1709370904579,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1709370904579,"pid":3664,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":50,"time":1709370973386,"pid":3664,"hostname":"DESKTOP-PR8QFB7","err":{"type":"DiscordjsError","message":"Required field with custom id \"duration\" not found.","stack":"TypeError [ModalSubmitInteractionFieldNotFound]: Required field with custom id \"duration\" not found.\n    at ModalSubmitFields.getField (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\discord.js\\src\\structures\\ModalSubmitFields.js:36:23)\n    at ModalSubmitFields.getTextInputValue (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\discord.js\\src\\structures\\ModalSubmitFields.js:51:17)\n    at runModalSetup (C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\giveaways\\giveaway.js:385:37)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.messageRun (C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\giveaways\\giveaway.js:183:14)\n    at async Object.handlePrefixCommand (C:\\Users\\lucas\\Desktop\\HunterZ\\src\\handlers\\command.js:70:7)","code":"ModalSubmitInteractionFieldNotFound"},"msg":"messageRun: Required field with custom id \"duration\" not found."}
+{"level":50,"time":1709371030053,"pid":3664,"hostname":"DESKTOP-PR8QFB7","err":{"type":"DiscordjsError","message":"Required field with custom id \"duration\" not found.","stack":"TypeError [ModalSubmitInteractionFieldNotFound]: Required field with custom id \"duration\" not found.\n    at ModalSubmitFields.getField (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\discord.js\\src\\structures\\ModalSubmitFields.js:36:23)\n    at ModalSubmitFields.getTextInputValue (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\discord.js\\src\\structures\\ModalSubmitFields.js:51:17)\n    at runModalSetup (C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\giveaways\\giveaway.js:385:37)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.messageRun (C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\giveaways\\giveaway.js:183:14)\n    at async Object.handlePrefixCommand (C:\\Users\\lucas\\Desktop\\HunterZ\\src\\handlers\\command.js:70:7)","code":"ModalSubmitInteractionFieldNotFound"},"msg":"messageRun: Required field with custom id \"duration\" not found."}
+{"level":30,"time":1709371094173,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Validating config file and environment variables"}
+{"level":40,"time":1709371094175,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1709371094175,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1709371094175,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1709371094243,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Loading commands..."}
+{"level":50,"time":1709371094271,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\anti.js Reason: Command name must be a lowercase string."}
+{"level":50,"time":1709371094272,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\autodelete.js Reason: Command name must be a lowercase string."}
+{"level":20,"time":1709371095004,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1709371095005,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1709371095008,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1709371095010,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1709371095012,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1709371095023,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1709371095024,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1709371095026,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1709371095028,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1709371095030,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1709371095045,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1709371095047,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1709371095049,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1709371095050,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1709371095051,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1709371095052,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1709371095053,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1709371095053,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1709371095054,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1709371095056,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1709371095057,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1709371095059,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1709371095062,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1709371095063,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1709371095087,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1709371095087,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1709371095088,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1709371095122,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 103 commands"}
+{"level":30,"time":1709371095122,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1709371095122,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Loading contexts..."}
+{"level":30,"time":1709371095124,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1709371095124,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1709371095124,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Loading events..."}
+{"level":30,"time":1709371095179,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1709371095485,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1709371095485,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Launching dashboard"}
+{"level":30,"time":1709371095784,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1709371095823,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1709371095846,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1709371096718,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Logged in as TESTE#8973! (1212965582161449053)"}
+{"level":20,"time":1709371096718,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1709371096720,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Music Manager initialized"}
+{"level":30,"time":1709371096720,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1709371096738,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1709371096739,"pid":13156,"hostname":"DESKTOP-PR8QFB7","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:518:28)\n    at emitErrorAndClose (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:518:28)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1709371096740,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1709371096741,"pid":13156,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":50,"time":1709371115491,"pid":13156,"hostname":"DESKTOP-PR8QFB7","err":{"type":"DiscordjsError","message":"Required field with custom id \"prize\" not found.","stack":"TypeError [ModalSubmitInteractionFieldNotFound]: Required field with custom id \"prize\" not found.\n    at ModalSubmitFields.getField (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\discord.js\\src\\structures\\ModalSubmitFields.js:36:23)\n    at ModalSubmitFields.getTextInputValue (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\discord.js\\src\\structures\\ModalSubmitFields.js:51:17)\n    at runModalSetup (C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\giveaways\\giveaway.js:389:30)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.messageRun (C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\giveaways\\giveaway.js:183:14)\n    at async Object.handlePrefixCommand (C:\\Users\\lucas\\Desktop\\HunterZ\\src\\handlers\\command.js:70:7)","code":"ModalSubmitInteractionFieldNotFound"},"msg":"messageRun: Required field with custom id \"prize\" not found."}
+{"level":30,"time":1709371166962,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Validating config file and environment variables"}
+{"level":40,"time":1709371166964,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1709371166964,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1709371166964,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1709371167028,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Loading commands..."}
+{"level":50,"time":1709371167054,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\anti.js Reason: Command name must be a lowercase string."}
+{"level":50,"time":1709371167055,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\autodelete.js Reason: Command name must be a lowercase string."}
+{"level":20,"time":1709371167787,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1709371167788,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1709371167791,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1709371167794,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1709371167796,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1709371167808,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1709371167809,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1709371167811,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1709371167813,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1709371167815,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1709371167830,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1709371167832,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1709371167834,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1709371167835,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1709371167836,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1709371167837,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1709371167838,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1709371167838,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1709371167839,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1709371167841,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1709371167842,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1709371167844,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1709371167847,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1709371167848,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1709371167873,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1709371167874,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1709371167875,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1709371167912,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 103 commands"}
+{"level":30,"time":1709371167912,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1709371167912,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Loading contexts..."}
+{"level":30,"time":1709371167914,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1709371167914,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1709371167914,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Loading events..."}
+{"level":30,"time":1709371167973,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1709371168271,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1709371168271,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Launching dashboard"}
+{"level":30,"time":1709371168540,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1709371168581,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1709371168604,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1709371169413,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Logged in as TESTE#8973! (1212965582161449053)"}
+{"level":20,"time":1709371169414,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1709371169416,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Music Manager initialized"}
+{"level":30,"time":1709371169416,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1709371169435,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1709371169437,"pid":18428,"hostname":"DESKTOP-PR8QFB7","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:518:28)\n    at emitErrorAndClose (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:518:28)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1709371169438,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1709371169438,"pid":18428,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1709409435209,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Validating config file and environment variables"}
+{"level":40,"time":1709409435211,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1709409435212,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1709409435212,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1709409435311,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Loading commands..."}
+{"level":50,"time":1709409435344,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\anti.js Reason: Command name must be a lowercase string."}
+{"level":50,"time":1709409435345,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\admin\\automod\\autodelete.js Reason: Command name must be a lowercase string."}
+{"level":20,"time":1709409436321,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1709409436323,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1709409436326,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1709409436328,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1709409436330,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1709409436342,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1709409436343,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1709409436344,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":50,"time":1709409436347,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\information\\slash\\bot.js Reason: Missing 'messageRun' function"}
+{"level":50,"time":1709409436349,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\information\\slash\\info.js Reason: Missing 'messageRun' function"}
+{"level":20,"time":1709409436365,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1709409436367,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1709409436369,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1709409436370,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1709409436370,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1709409436371,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1709409436372,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1709409436373,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1709409436374,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1709409436376,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1709409436377,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1709409436379,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":50,"time":1709409436382,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\moderation\\slash\\purge.js Reason: Missing 'messageRun' function"}
+{"level":50,"time":1709409436384,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Failed to load C:\\Users\\lucas\\Desktop\\HunterZ\\src\\commands\\moderation\\slash\\voice.js Reason: Missing 'messageRun' function"}
+{"level":20,"time":1709409436408,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1709409436408,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1709409436409,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1709409436444,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 103 commands"}
+{"level":30,"time":1709409436445,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 80 slash commands"}
+{"level":30,"time":1709409436445,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Loading contexts..."}
+{"level":30,"time":1709409436447,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1709409436447,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1709409436447,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Loading events..."}
+{"level":30,"time":1709409436503,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1709409436859,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1709409436859,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Launching dashboard"}
+{"level":30,"time":1709409437179,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1709409437217,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1709409437241,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1709409438024,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Logged in as TESTE#8973! (1212965582161449053)"}
+{"level":20,"time":1709409438025,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1709409438026,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Music Manager initialized"}
+{"level":30,"time":1709409438027,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1709409438045,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1709409438046,"pid":8920,"hostname":"DESKTOP-PR8QFB7","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:518:28)\n    at emitErrorAndClose (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\Users\\lucas\\Desktop\\HunterZ\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:518:28)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1709409438048,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1709409438048,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1709409439282,"pid":8920,"hostname":"DESKTOP-PR8QFB7","msg":"Successfully registered interactions"}

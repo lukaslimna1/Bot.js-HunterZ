@@ -1,0 +1,275 @@
+<h1 id="-admin">⚙ Admin</h1>
+<p>{% hint style=&quot;danger&quot; %}
+These commands can only be used by members who have <strong>MANAGE_SERVER</strong> permission
+{% endhint %}</p>
+<h3 id="set-prefix">Set Prefix</h3>
+<ul>
+<li><strong>Description</strong>: Set bot prefix</li>
+<li><strong>Usage</strong>: <code>!setprefix &lt;newPrefix&gt;</code></li>
+</ul>
+<h3 id="embed">Embed</h3>
+<ul>
+<li><strong>Description</strong>: Send an embed message</li>
+<li><strong>Usage</strong>: <code>!embed &lt;#channel&gt;</code></li>
+</ul>
+<h3 id="automoderation">Automoderation</h3>
+<p>{% hint style=&quot;info&quot; %}
+By default, Auto moderation events are ignored for members who have the following permissions since they are assumed to be channel/server moderators</p>
+<p><strong>KICK_MEMBERS</strong>, <strong>BAN_MEMBERS</strong>, <strong>MANAGE_GUILD</strong>, <strong>MANAGE_MESSAGES</strong></p>
+<p><code>!automodconfig debug on</code> disables this
+{% endhint %}</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>!automodconfig status</strong></td>
+<td>view configuration status</td>
+</tr>
+<tr>
+<td><strong>!automodconfig strikes \<amount></strong></td>
+<td>set the maximum number of strikes before taking an action</td>
+</tr>
+<tr>
+<td>**!automodconfig action \&lt;timeout\</td>
+<td>mute\</td>
+<td>ban&gt;**</td>
+<td>set the action to be performed after receiving maximum strikes</td>
+</tr>
+<tr>
+<td>**!automodconfig debug \&lt;on\</td>
+<td>off&gt;**</td>
+<td>turns on automod for messages sent by admins and moderators</td>
+</tr>
+<tr>
+<td><strong>!automodconfig whitelist</strong></td>
+<td>list of channels that are whitelisted</td>
+</tr>
+<tr>
+<td><strong>!automodconfig whitelistadd \<channel></strong></td>
+<td>add a channel to the whitelist</td>
+</tr>
+<tr>
+<td><strong>!automodconfig whitelistremove \<channel></strong></td>
+<td>remove a channel from the whitelist</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Settings</strong></p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>**!anti ghostping \&lt;on\</td>
+<td>off&gt;**</td>
+<td>logs ghost mentions in your server (Requires <code>/modlog</code> channel to be setup)</td>
+</tr>
+<tr>
+<td>**!anti spam \&lt;on\</td>
+<td>off&gt;**</td>
+<td>enable or disable antispam detection</td>
+</tr>
+<tr>
+<td>**!anti massmention \&lt;on\</td>
+<td>off&gt; [threshold]**</td>
+<td>enable or disable massmention detection (default threshold is 3 mentions]</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autodelete</strong></p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>**!autodelete attachments \&lt;on\</td>
+<td>off&gt;**</td>
+<td>logs ghost mentions in your server (Requires <code>/modlog</code> channel to be setup)</td>
+</tr>
+<tr>
+<td>**!autodelete invites \&lt;on\</td>
+<td>off&gt;**</td>
+<td>allow or disallow sending discord invites in message</td>
+</tr>
+<tr>
+<td>**!automod links \&lt;on\</td>
+<td>off&gt;**</td>
+<td>allow or disallow sending links in message</td>
+</tr>
+<tr>
+<td><strong>!automod maxlines \<amount></strong></td>
+<td>sets maximum lines allowed per message</td>
+</tr>
+</tbody>
+</table>
+<p>{% hint style=&quot;warning&quot; %}
+Each time a member tries to break the automated rule, he/she <strong>receives a strike</strong>. After receiving the maximum number of strikes (default 10), the moderation action (default TIMEOUT) is performed on them
+{% endhint %}</p>
+<h3 id="channels-counters">Channels Counters</h3>
+<ul>
+<li><strong>Description:</strong> setup counter channel in the guild</li>
+<li><strong>Usage</strong>: <code>!counter &lt;counter_type&gt; &lt;name&gt;</code></li>
+<li><strong>Available counters</strong> <strong>types</strong><ul>
+<li>USERS: counts the total server member count (members + bots)</li>
+<li>MEMBERS: counts the total member count</li>
+<li>BOTS: counts the total number of bots</li>
+</ul>
+</li>
+</ul>
+<h3 id="warnings">Warnings</h3>
+<ul>
+<li><strong>!maxwarn limit \<amount></strong>: set max warnings a member can receive before taking an action</li>
+<li><strong>!maxwarn action \<timeout\|kick\|ban></strong>: set the action to be performed after receiving maximum warnings</li>
+</ul>
+<h3 id="moderation-logging">Moderation Logging</h3>
+<ul>
+<li><strong>Description</strong>: enable or disable moderation logs</li>
+<li><strong>Usage</strong>: <code>!modlog &lt;channel|off&gt;</code></li>
+</ul>
+<p>{% hint style=&quot;info&quot; %}
+Moderation logging enable logging of all <strong>moderation actions</strong> and <strong>automod events</strong>
+{% endhint %}</p>
+<h3 id="flag-translations">Flag Translations</h3>
+<p><em>Enabling this feature will allow members to simply react to any message with a country flag emoji, translating that message content to regional language</em></p>
+<ul>
+<li><strong>Description</strong>: configure flag translation in the server</li>
+<li><strong>Usage</strong>: <code>!flagtr &lt;on|off&gt;</code></li>
+</ul>
+<p><img src="../.gitbook/assets/image.png" alt=""></p>
+<h3 id="auto-role">Auto Role</h3>
+<ul>
+<li><strong>Description</strong>: setup role to be given when a member joins the server</li>
+<li><strong>Usage</strong>: <code>!autorole &lt;role|off&gt;</code></li>
+</ul>
+<h3 id="greeting">Greeting</h3>
+<p>{% tabs %}
+{% tab title=&quot;Welcome&quot; %}
+<strong>!welcome status \<on\|off></strong></p>
+<ul>
+<li>enable or disable welcome message</li>
+</ul>
+<p><strong>!welcome channel \&lt;#channel&gt;</strong></p>
+<ul>
+<li>configure channel where welcome messages must be sent</li>
+</ul>
+<p><strong>!welcome preview</strong></p>
+<ul>
+<li>send a welcome preview</li>
+</ul>
+<p><strong>!welcome desc \<content></strong></p>
+<ul>
+<li>set welcome embed description</li>
+</ul>
+<p><strong>!welcome footer \<content></strong></p>
+<ul>
+<li>set welcome embed footer</li>
+</ul>
+<p><strong>!welcome thumbnail \<on\|off></strong></p>
+<ul>
+<li>enable or disable welcome message thumbnail</li>
+</ul>
+<p><strong>!welcome color \&lt;#hex&gt;</strong></p>
+<ul>
+<li>set welcome embed color</li>
+</ul>
+<p><strong>!welcome image \<image-url></strong></p>
+<ul>
+<li>set welcome embed image
+{% endtab %}</li>
+</ul>
+<p>{% tab title=&quot;Farewell&quot; %}
+<strong>!farewell status \<on\|off></strong></p>
+<ul>
+<li>enable or disable farewell message</li>
+</ul>
+<p><strong>!farewell channel \&lt;#channel&gt;</strong></p>
+<ul>
+<li>configure channel where farewell messages must be sent</li>
+</ul>
+<p><strong>!farewell preview</strong></p>
+<ul>
+<li>send a farewell preview</li>
+</ul>
+<p><strong>!farewell desc \<content></strong></p>
+<ul>
+<li>set farewell embed description</li>
+</ul>
+<p><strong>!farewell footer \<content></strong></p>
+<ul>
+<li>set farewell embed footer</li>
+</ul>
+<p><strong>!farewell thumbnail \<on\|off></strong></p>
+<ul>
+<li>enable or disable farewell message thumbnail</li>
+</ul>
+<p><strong>!farewell color \&lt;#hex&gt;</strong></p>
+<ul>
+<li>set farewell embed color</li>
+</ul>
+<p><strong>!farewell image \&lt;#image-url&gt;</strong></p>
+<ul>
+<li>set farewell embed image
+{% endtab %}
+{% endtabs %}</li>
+</ul>
+<p>{% hint style=&quot;success&quot; %}</p>
+<h4 id="allowed-content-replacements">Allowed Content Replacements</h4>
+<ul>
+<li>\n : New Line&#x20;</li>
+<li>{server} : Server Name&#x20;</li>
+<li>{count} : Server member count&#x20;</li>
+<li>{member:nick} : Member Nickname&#x20;</li>
+<li>{member:name} : Member Name&#x20;</li>
+<li>{member:dis} : Member Discriminator&#x20;</li>
+<li>{member:tag} : Member Tag&#x20;</li>
+<li>{member:mention} : Member Mention&#x20;</li>
+<li>{member:avatar} : Member Avatar URL&#x20;</li>
+<li>{inviter:name} : Inviter Name&#x20;</li>
+<li>{inviter:tag} : Inviter Tag&#x20;</li>
+<li>{invites} : Inviter Invites
+{% endhint %}</li>
+</ul>
+<h3 id="reaction-roles">Reaction Roles</h3>
+<p><strong>Create Reaction Role</strong></p>
+<ul>
+<li><strong>Usage</strong>: <code>!addrr &lt;#channel&gt; &lt;messageId&gt; &lt;role&gt; &lt;emote&gt;</code></li>
+<li><strong>Description</strong>: setup reaction role for the specified message</li>
+</ul>
+<p><strong>Remove Reaction Roles</strong></p>
+<ul>
+<li><strong>Usage</strong>: <code>!removerr &lt;#channel&gt; &lt;messageId&gt;</code></li>
+<li><strong>Description</strong>: remove configured reaction for the specified message</li>
+</ul>
+<h3 id="ticketing">Ticketing</h3>
+<p><strong>Configuration</strong></p>
+<ul>
+<li><strong>!ticket setup \&lt;#channel&gt;</strong>: setup a new ticket message</li>
+<li><strong>!ticket log \&lt;#channel&gt;</strong>: setup log channel for tickets</li>
+<li><strong>!ticket limit \<amount></strong>: set maximum number of concurrent open tickets</li>
+<li><strong>!ticket closeall</strong>: close all open tickets</li>
+</ul>
+<p><strong>Ticket Channel Commands</strong></p>
+<ul>
+<li><strong>!ticket close</strong>: close the ticket</li>
+<li><strong>!ticket add \<userId\|roleId></strong>: add user/role to the ticket</li>
+<li><strong>!ticket remove \<userId\|roleId></strong>: remove user/role from the ticket</li>
+</ul>
+<p><strong>Ticket Category Commands</strong></p>
+<ul>
+<li><strong>!ticketcat list</strong>: list all ticket categories</li>
+<li><strong>!ticketcat add \<category> | \<name></strong>: create a new ticket category</li>
+<li><strong>!ticketcat remove \<category></strong>: remove a ticket category</li>
+</ul>
